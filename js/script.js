@@ -7,3 +7,5 @@ document.addEventListener("DOMContentLoaded", () => {
         delay: (el, i) => 300 + 70 * i,
     })
 })
+
+
