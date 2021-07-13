@@ -15,7 +15,7 @@ width: 100%;
 max-width: 1600px;
 min-height: 100vh;
 background: cadetblue;
-
+background: white;
 }
 
 .img-profile{
@@ -110,7 +110,7 @@ background-repeat:no-repeat;
 
 
 
-table.blueTable {
+table.blueTable, table.skills {
   margin-left: 10rem;
   background-color: none;
   width: 110%;
